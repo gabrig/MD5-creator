@@ -13,8 +13,9 @@ Finally, you'll be asked if you want to encrypt another string: if yes, the prog
 
 # How to run?
 1)Run in terminal:
-  [code]python MD5.py[/code]
-2) Follow the instructions printed on screen
+  python MD5.py
+  
+2)Follow the instructions printed on screen
 
 # Why I did it?
 As I'm learning python, I wanted to challenge myself making a program. Here it is.
